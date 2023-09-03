@@ -1,5 +1,6 @@
 version: STSv1
 mode: none
-mx: mta-sts.mailbox.nextgenitad.com
-mx: mta-sts.netgenitad.com
-max_age: 100
+mx: nextgenitad.com
+mx: mail.netgenitad.com
+mx: mx.zoho.com
+max_age: 604800
