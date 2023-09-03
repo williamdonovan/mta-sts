@@ -1,0 +1,5 @@
+version: STSv1
+mode: none
+mx: _mta-sts.mailbox.nextgenitad.com
+mx: _mta-sts.netgenitad.com
+max_age: 100
