@@ -1,6 +1,6 @@
 version: STSv1
 mode: none
-mx: nextgenitad.com
 mx: mail.netgenitad.com
+mx: *.nextgenitad.com
 mx: mx.zoho.com
-max_age: 604800
+max_age: 6048
